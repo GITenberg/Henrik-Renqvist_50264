@@ -1,15 +1,21 @@
 _repo: Henrik-Renqvist_50264
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Peltolainen, K.
     gutenberg_agent_id: '45782'
     url: http://www.gutenberg.org/2009/agents/45782
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Akiander, Matthias
     gutenberg_agent_id: '45781'
     url: http://www.gutenberg.org/2009/agents/45781
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50264#Henrik-Renqvist
 gutenberg_issued: '2015-10-21'
 gutenberg_type: Text
 identifiers:
